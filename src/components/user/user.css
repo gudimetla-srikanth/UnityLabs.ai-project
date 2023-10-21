@@ -1,0 +1,15 @@
+.user {
+    width: 100vw;
+    background-color: rgba(235, 239, 243, 0.308);
+    padding: 10px;
+}
+
+.user_wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.user_name,
+.user_points {
+    font-weight: bold;
+}

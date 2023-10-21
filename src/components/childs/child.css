@@ -1,0 +1,16 @@
+.child {
+    padding: 20px;
+}
+
+.child_comment {
+    overflow: hidden;
+}
+
+.comment {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.child_name {
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.loading {
+    height: calc(100vh - 80px);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
+@media screen and (max-width:420px) {
+    .loading {
+        font-size: 50px;
+    }
+
+}
