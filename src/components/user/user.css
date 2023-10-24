@@ -13,3 +13,9 @@
 .user_points {
     font-weight: bold;
 }
+
+.btn {
+    border-radius: 5px;
+    background-color: rgb(38, 214, 11);
+    width: max-content;
+}
